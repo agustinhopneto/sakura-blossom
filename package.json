@@ -1,0 +1,35 @@
+{
+  "name": "sakura-blossom",
+  "displayName": "Sakura Blossom",
+  "description": "A pastel-themed color palette with a primary focus on soft pink. The colors blend elegance with readability, offering a balanced and visually pleasing coding experience.",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./src/index.js",
+  "author": {
+    "name": "Agustinho Neto",
+    "email": "hello@apneto.dev",
+    "url": "https://www.github.com/agustinhopneto"
+  },
+  "publisher": "agustinhopneto",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sakura Blossom Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sakura-blossom-midnight-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "node ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4"
+  }
+}

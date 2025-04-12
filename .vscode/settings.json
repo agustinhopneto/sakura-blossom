@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "quickfix.biome": "explicit",
+    "source.organizeImports.biome": "explicit"
+  },
+  "editor.defaultFormatter": "biomejs.biome",
+  "editor.formatOnSave": true,
+  "editor.rulers": [
+    80
+  ],
+  "[javascript]": {
+    "editor.defaultFormatter": "biomejs.biome"
+  }
+}

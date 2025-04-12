@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Sakura Blossom Midnight",
+    "alias": "sakura-blossom-midnight",
+    "type": "dark",
+    "colors": [
+      {
+        "name": "Black",
+        "alias": "black",
+        "hex": "#0000",
+        "rgb": "rgb(0, 0, 0)",
+        "hsl": "hsl(0, 0%, 0%)"
+      },
+      {
+        "name": "Deep",
+        "alias": "deep",
+        "hex": "#1D161B",
+        "rgb": "rgb(29, 22, 27)",
+        "hsl": "hsl(315, 15%, 10%)"
+      },
+      {
+        "name": "Dark",
+        "alias": "dark",
+        "hex": "#271B25",
+        "rgb": "rgb(39, 27, 37)",
+        "hsl": "hsl(310, 18%, 13%)"
+      },
+      {
+        "name": "Dusk",
+        "alias": "dusk",
+        "hex": "#332430",
+        "rgb": "rgb(51, 36, 48)",
+        "hsl": "hsl(312, 18%, 17%)"
+      },
+      {
+        "name": "Clay",
+        "alias": "clay",
+        "hex": "#705C61",
+        "rgb": "rgb(126, 103, 109)",
+        "hsl": "hsl(345, 10%, 40%)"
+      },
+      {
+        "name": "Dust",
+        "alias": "dust",
+        "hex": "#9F898F",
+        "rgb": "rgb(172, 154, 159)",
+        "hsl": "hsl(345, 10%, 60%)"
+      },
+      {
+        "name": "Powder",
+        "alias": "powder",
+        "hex": "#D1C7CA",
+        "rgb": "rgb(230, 224, 226)",
+        "hsl": "hsl(345, 10%, 80%)"
+      },
+      {
+        "name": "Lily",
+        "alias": "lily",
+        "hex": "#C05039",
+        "rgb": "rgb(192, 80, 57)",
+        "hsl": "hsl(10, 54%, 49%)"
+      },
+      {
+        "name": "Daisy",
+        "alias": "daisy",
+        "hex": "#E3B75F",
+        "rgb": "rgb(227, 183, 95)",
+        "hsl": "hsl(40, 70%, 63%)"
+      },
+      {
+        "name": "Sakura",
+        "alias": "sakura",
+        "hex": "#F688A5",
+        "rgb": "rgb(246, 136, 165)",
+        "hsl": "hsl(344, 86%, 75%)"
+      },
+      {
+        "name": "Leaf",
+        "alias": "leaf",
+        "hex": "#70CD9E",
+        "rgb": "rgb(112, 205, 158)",
+        "hsl": "hsl(150, 48%, 62%)"
+      },
+      {
+        "name": "Iris",
+        "alias": "iris",
+        "hex": "#85C1E9",
+        "rgb": "rgb(133, 193, 233)",
+        "hsl": "hsl(204, 69%, 72%)"
+      },
+      {
+        "name": "Wisteria",
+        "alias": "wisteria",
+        "hex": "#B6A3E5",
+        "rgb": "rgb(182, 163, 229)",
+        "hsl": "hsl(257, 56%, 77%)"
+      },
+      {
+        "name": "Seed",
+        "alias": "seed",
+        "hex": "#2F282D",
+        "rgb": "rgb(47, 40, 45)",
+        "hsl": "hsl(320, 8%, 17%)"
+      },
+      {
+        "name": "Trunk",
+        "alias": "trunk",
+        "hex": "#382E35",
+        "rgb": "rgb(56, 46, 53)",
+        "hsl": "hsl(316, 10%, 20%)"
+      },
+      {
+        "name": "Branch",
+        "alias": "branch",
+        "hex": "#453540",
+        "rgb": "rgb(69, 53, 64)",
+        "hsl": "hsl(318, 13%, 24%)"
+      }
+    ]
+  }
+]

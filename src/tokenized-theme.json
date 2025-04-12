@@ -1,0 +1,739 @@
+{
+  "name": "Sakura Blossom Midnight",
+  "type": "dark",
+  "colors": {
+    "activityBar.activeBorder": "$powder",
+    "activityBar.background": "$deep",
+    "activityBar.dropBorder": "$dusk",
+    "activityBar.foreground": "$powder",
+    "activityBar.inactiveForeground": "$dust",
+    "activityBarBadge.background": "$sakura",
+    "activityBarBadge.foreground": "$deep",
+    "badge.background": "$sakura",
+    "badge.foreground": "$deep",
+    "banner.background": "$dark",
+    "banner.foreground": "$powder",
+    "banner.iconForeground": "$dust",
+    "breadcrumb.activeSelectionForeground": "$sakura",
+    "breadcrumb.background": "$deep",
+    "breadcrumb.focusForeground": "$dust",
+    "breadcrumb.foreground": "$clay",
+    "breadcrumbPicker.background": "$dark",
+    "button.background": "$sakura",
+    "button.foreground": "$deep",
+    "button.hoverBackground": "$sakura/e6",
+    "button.secondaryBackground": "$dark",
+    "button.secondaryForeground": "$powder",
+    "button.secondaryHoverBackground": "$dusk",
+    "charts.blue": "$iris",
+    "charts.foreground": "$powder",
+    "charts.green": "$leaf",
+    "charts.lines": "$dust",
+    "charts.orange": "$sakura",
+    "charts.purple": "$wisteria",
+    "charts.red": "$lily",
+    "charts.yellow": "$daisy",
+    "checkbox.background": "$dark",
+    "checkbox.border": "$clay/33",
+    "checkbox.foreground": "$powder",
+    "debugExceptionWidget.background": "$dark",
+    "debugExceptionWidget.border": "$clay/33",
+    "debugIcon.breakpointCurrentStackframeForeground": "$dust",
+    "debugIcon.breakpointDisabledForeground": "$dust",
+    "debugIcon.breakpointForeground": "$dust",
+    "debugIcon.breakpointStackframeForeground": "$dust",
+    "debugIcon.breakpointUnverifiedForeground": "$dust",
+    "debugIcon.continueForeground": "$dust",
+    "debugIcon.disconnectForeground": "$dust",
+    "debugIcon.pauseForeground": "$dust",
+    "debugIcon.restartForeground": "$dust",
+    "debugIcon.startForeground": "$dust",
+    "debugIcon.stepBackForeground": "$dust",
+    "debugIcon.stepIntoForeground": "$dust",
+    "debugIcon.stepOutForeground": "$dust",
+    "debugIcon.stepOverForeground": "$dust",
+    "debugIcon.stopForeground": "$lily",
+    "debugToolBar.background": "$dark",
+    "debugToolBar.border": "$dusk",
+    "descriptionForeground": "$dust",
+    "diffEditor.border": "$dusk",
+    "diffEditor.diagonalFill": "$clay/66",
+    "diffEditor.insertedLineBackground": "$iris/26",
+    "diffEditor.insertedTextBackground": "$iris/26",
+    "diffEditor.removedLineBackground": "$lily/26",
+    "diffEditor.removedTextBackground": "$lily/26",
+    "diffEditorOverview.insertedForeground": "$iris/80",
+    "diffEditorOverview.removedForeground": "$lily/80",
+    "dropdown.background": "$dark",
+    "dropdown.border": "$clay/33",
+    "dropdown.foreground": "$powder",
+    "dropdown.listBackground": "$dark",
+    "editor.background": "$deep",
+    "editor.findMatchBackground": "$daisy/33",
+    "editor.findMatchBorder": "$daisy/80",
+    "editor.findMatchForeground": "$powder",
+    "editor.findMatchHighlightBackground": "$clay/66",
+    "editor.findMatchHighlightForeground": "$powder/cc",
+    "editor.findRangeHighlightBackground": "$clay/66",
+    "editor.findRangeHighlightBorder": "$black",
+    "editor.focusedStackFrameHighlightBackground": "$clay/33",
+    "editor.foldBackground": "$clay/33",
+    "editor.foreground": "$powder",
+    "editor.hoverHighlightBackground": "$black",
+    "editor.inactiveSelectionBackground": "$clay/1a",
+    "editor.inlineValuesBackground": "$black",
+    "editor.inlineValuesForeground": "$dust",
+    "editor.lineHighlightBackground": "$clay/1a",
+    "editor.lineHighlightBorder": "$black",
+    "editor.linkedEditingBackground": "$clay/33",
+    "editor.rangeHighlightBackground": "$clay/1a",
+    "editor.selectionBackground": "$clay/33",
+    "editor.selectionForeground": "$powder",
+    "editor.selectionHighlightBackground": "$clay/33",
+    "editor.selectionHighlightBorder": "$deep",
+    "editor.snippetFinalTabstopHighlightBackground": "$clay/33",
+    "editor.snippetFinalTabstopHighlightBorder": "$dark",
+    "editor.snippetTabstopHighlightBackground": "$clay/33",
+    "editor.snippetTabstopHighlightBorder": "$dark",
+    "editor.stackFrameHighlightBackground": "$clay/33",
+    "editor.symbolHighlightBackground": "$clay/33",
+    "editor.symbolHighlightBorder": "$black",
+    "editor.wordHighlightBackground": "$clay/33",
+    "editor.wordHighlightBorder": "$black",
+    "editor.wordHighlightStrongBackground": "$clay/33",
+    "editor.wordHighlightStrongBorder": "$clay/33",
+    "editorBracketHighlight.foreground1": "$lily/80",
+    "editorBracketHighlight.foreground2": "$leaf/80",
+    "editorBracketHighlight.foreground3": "$daisy/80",
+    "editorBracketHighlight.foreground4": "$iris/80",
+    "editorBracketHighlight.foreground5": "$sakura/80",
+    "editorBracketHighlight.foreground6": "$wisteria/80",
+    "editorBracketMatch.background": "$black",
+    "editorBracketMatch.border": "$dust",
+    "editorBracketPairGuide.activeBackground1": "$leaf",
+    "editorBracketPairGuide.activeBackground2": "$sakura",
+    "editorBracketPairGuide.activeBackground3": "$wisteria",
+    "editorBracketPairGuide.activeBackground4": "$iris",
+    "editorBracketPairGuide.activeBackground5": "$daisy",
+    "editorBracketPairGuide.activeBackground6": "$lily",
+    "editorBracketPairGuide.background1": "$leaf/80",
+    "editorBracketPairGuide.background2": "$sakura/80",
+    "editorBracketPairGuide.background3": "$wisteria/80",
+    "editorBracketPairGuide.background4": "$iris/80",
+    "editorBracketPairGuide.background5": "$daisy/80",
+    "editorBracketPairGuide.background6": "$lily/80",
+    "editorCodeLens.foreground": "$sakura",
+    "editorCursor.background": "$powder",
+    "editorCursor.foreground": "$clay",
+    "editorError.border": "$black",
+    "editorError.foreground": "$lily",
+    "editorGhostText.foreground": "$dust",
+    "editorGroup.border": "$black",
+    "editorGroup.dropBackground": "$dark",
+    "editorGroup.emptyBackground": "$black",
+    "editorGroup.focusedEmptyBorder": "$black",
+    "editorGroupHeader.noTabsBackground": "$black",
+    "editorGroupHeader.tabsBackground": "$black",
+    "editorGroupHeader.tabsBorder": "$black",
+    "editorGutter.addedBackground": "$iris",
+    "editorGutter.background": "$deep",
+    "editorGutter.commentRangeForeground": "$dusk",
+    "editorGutter.deletedBackground": "$lily",
+    "editorGutter.foldingControlForeground": "$wisteria",
+    "editorGutter.modifiedBackground": "$sakura",
+    "editorHint.border": "$black",
+    "editorHint.foreground": "$dust",
+    "editorHoverWidget.background": "$dark",
+    "editorHoverWidget.border": "$clay/80",
+    "editorHoverWidget.foreground": "$dust",
+    "editorHoverWidget.highlightForeground": "$powder",
+    "editorHoverWidget.statusBarBackground": "$black",
+    "editorInfo.border": "$dusk",
+    "editorInfo.foreground": "$iris",
+    "editorInlayHint.background": "$dusk/80",
+    "editorInlayHint.foreground": "$dust/80",
+    "editorInlayHint.parameterBackground": "$dusk/80",
+    "editorInlayHint.parameterForeground": "$wisteria/80",
+    "editorInlayHint.typeBackground": "$dusk/80",
+    "editorInlayHint.typeForeground": "$iris/80",
+    "editorLightBulb.foreground": "$leaf",
+    "editorLightBulbAutoFix.foreground": "$sakura",
+    "editorLineNumber.activeForeground": "$powder",
+    "editorLineNumber.foreground": "$dust",
+    "editorLink.activeForeground": "$sakura",
+    "editorMarkerNavigation.background": "$dark",
+    "editorMarkerNavigationError.background": "$dark",
+    "editorMarkerNavigationInfo.background": "$dark",
+    "editorMarkerNavigationWarning.background": "$dark",
+    "editorOverviewRuler.addedForeground": "$iris/80",
+    "editorOverviewRuler.background": "$deep",
+    "editorOverviewRuler.border": "$clay/66",
+    "editorOverviewRuler.bracketMatchForeground": "$dust",
+    "editorOverviewRuler.commentForeground": "$dust/80",
+    "editorOverviewRuler.commentUnresolvedForeground": "$daisy/80",
+    "editorOverviewRuler.commonContentForeground": "$clay/1a",
+    "editorOverviewRuler.currentContentForeground": "$clay/33",
+    "editorOverviewRuler.deletedForeground": "$lily/80",
+    "editorOverviewRuler.errorForeground": "$lily/80",
+    "editorOverviewRuler.findMatchForeground": "$clay/66",
+    "editorOverviewRuler.incomingContentForeground": "$wisteria/80",
+    "editorOverviewRuler.infoForeground": "$iris/80",
+    "editorOverviewRuler.modifiedForeground": "$sakura/80",
+    "editorOverviewRuler.rangeHighlightForeground": "$clay/66",
+    "editorOverviewRuler.selectionHighlightForeground": "$clay/66",
+    "editorOverviewRuler.warningForeground": "$daisy/80",
+    "editorOverviewRuler.wordHighlightForeground": "$clay/33",
+    "editorOverviewRuler.wordHighlightStrongForeground": "$clay/66",
+    "editorPane.background": "$black",
+    "editorRuler.foreground": "$clay/66",
+    "editorSuggestWidget.background": "$dark",
+    "editorSuggestWidget.border": "$black",
+    "editorSuggestWidget.focusHighlightForeground": "$sakura",
+    "editorSuggestWidget.foreground": "$dust",
+    "editorSuggestWidget.highlightForeground": "$sakura",
+    "editorSuggestWidget.selectedBackground": "$clay/33",
+    "editorSuggestWidget.selectedForeground": "$powder",
+    "editorSuggestWidget.selectedIconForeground": "$powder",
+    "editorUnnecessaryCode.border": "$black",
+    "editorUnnecessaryCode.opacity": "$powder/80",
+    "editorWarning.border": "$black",
+    "editorWarning.foreground": "$daisy",
+    "editorWhitespace.foreground": "$clay/80",
+    "editorWidget.background": "$dark",
+    "editorWidget.border": "$dusk",
+    "editorWidget.foreground": "$dust",
+    "editorWidget.resizeBorder": "$clay",
+    "errorForeground": "$lily",
+    "extensionBadge.remoteBackground": "$wisteria",
+    "extensionBadge.remoteForeground": "$deep",
+    "extensionButton.prominentBackground": "$sakura",
+    "extensionButton.prominentForeground": "$deep",
+    "extensionButton.prominentHoverBackground": "$sakura/e6",
+    "extensionIcon.preReleaseForeground": "$leaf",
+    "extensionIcon.starForeground": "$sakura",
+    "extensionIcon.verifiedForeground": "$wisteria",
+    "focusBorder": "$clay/33",
+    "foreground": "$powder",
+    "git.blame.editorDecorationForeground": "$clay",
+    "gitDecoration.addedResourceForeground": "$iris",
+    "gitDecoration.conflictingResourceForeground": "$lily",
+    "gitDecoration.deletedResourceForeground": "$dust",
+    "gitDecoration.ignoredResourceForeground": "$clay",
+    "gitDecoration.modifiedResourceForeground": "$sakura",
+    "gitDecoration.renamedResourceForeground": "$leaf",
+    "gitDecoration.stageDeletedResourceForeground": "$lily",
+    "gitDecoration.stageModifiedResourceForeground": "$wisteria",
+    "gitDecoration.submoduleResourceForeground": "$daisy",
+    "gitDecoration.untrackedResourceForeground": "$daisy",
+    "icon.foreground": "$dust",
+    "input.background": "$dusk/80",
+    "input.border": "$clay/33",
+    "input.foreground": "$powder",
+    "input.placeholderForeground": "$dust",
+    "inputOption.activeBackground": "$sakura/26",
+    "inputOption.activeBorder": "$black",
+    "inputOption.activeForeground": "$sakura",
+    "inputValidation.errorBackground": "$dark",
+    "inputValidation.errorBorder": "$clay/66",
+    "inputValidation.errorForeground": "$lily",
+    "inputValidation.infoBackground": "$dark",
+    "inputValidation.infoBorder": "$clay/66",
+    "inputValidation.infoForeground": "$iris",
+    "inputValidation.warningBackground": "$dark",
+    "inputValidation.warningBorder": "$clay/66",
+    "inputValidation.warningForeground": "$iris/80",
+    "keybindingLabel.background": "$dusk",
+    "keybindingLabel.border": "$clay/66",
+    "keybindingLabel.bottomBorder": "$clay/66",
+    "keybindingLabel.foreground": "$wisteria",
+    "keybindingTable.headerBackground": "$dusk",
+    "keybindingTable.rowsBackground": "$dark",
+    "list.activeSelectionBackground": "$clay/33",
+    "list.activeSelectionForeground": "$powder",
+    "list.deemphasizedForeground": "$dust",
+    "list.dropBackground": "$dark",
+    "list.errorForeground": "$lily",
+    "list.filterMatchBackground": "$dark",
+    "list.filterMatchBorder": "$sakura",
+    "list.focusBackground": "$clay/66",
+    "list.focusForeground": "$powder",
+    "list.focusOutline": "$clay/33",
+    "list.highlightForeground": "$sakura",
+    "list.hoverBackground": "$clay/1a",
+    "list.hoverForeground": "$powder",
+    "list.inactiveFocusBackground": "$clay/1a",
+    "list.inactiveSelectionBackground": "$dark",
+    "list.inactiveSelectionForeground": "$powder",
+    "list.invalidItemForeground": "$lily",
+    "list.warningForeground": "$daisy",
+    "listFilterWidget.background": "$dark",
+    "listFilterWidget.noMatchesOutline": "$lily",
+    "listFilterWidget.outline": "$dusk",
+    "menu.background": "$dark",
+    "menu.border": "$clay/1a",
+    "menu.foreground": "$powder",
+    "menu.selectionBackground": "$clay/33",
+    "menu.selectionBorder": "$dusk",
+    "menu.selectionForeground": "$powder",
+    "menu.separatorBackground": "$clay/66",
+    "menubar.selectionBackground": "$clay/33",
+    "menubar.selectionBorder": "$clay/1a",
+    "menubar.selectionForeground": "$powder",
+    "merge.border": "$dusk",
+    "merge.commonContentBackground": "$clay/33",
+    "merge.commonHeaderBackground": "$clay/33",
+    "merge.currentContentBackground": "$daisy/80",
+    "merge.currentHeaderBackground": "$daisy/80",
+    "merge.incomingContentBackground": "$iris/80",
+    "merge.incomingHeaderBackground": "$iris/80",
+    "minimap.background": "$dark",
+    "minimap.errorHighlight": "$lily/80",
+    "minimap.findMatchHighlight": "$clay/33",
+    "minimap.selectionHighlight": "$clay/33",
+    "minimap.warningHighlight": "$daisy/80",
+    "minimapGutter.addedBackground": "$iris",
+    "minimapGutter.deletedBackground": "$lily",
+    "minimapGutter.modifiedBackground": "$sakura",
+    "minimapSlider.activeBackground": "$clay/66",
+    "minimapSlider.background": "$clay/33",
+    "minimapSlider.hoverBackground": "$clay/33",
+    "notebook.cellBorderColor": "$iris/80",
+    "notebook.cellEditorBackground": "$dark",
+    "notebook.cellHoverBackground": "$dusk/80",
+    "notebook.focusedCellBackground": "$clay/1a",
+    "notebook.focusedCellBorder": "$iris",
+    "notebook.outputContainerBackgroundColor": "$clay/1a",
+    "notificationCenter.border": "$clay/33",
+    "notificationCenterHeader.background": "$dark",
+    "notificationCenterHeader.foreground": "$dust",
+    "notificationLink.foreground": "$wisteria",
+    "notifications.background": "$dark",
+    "notifications.border": "$clay/33",
+    "notifications.foreground": "$powder",
+    "notificationsErrorIcon.foreground": "$lily",
+    "notificationsInfoIcon.foreground": "$iris",
+    "notificationsWarningIcon.foreground": "$daisy",
+    "notificationToast.border": "$clay/33",
+    "panel.background": "$dark",
+    "panel.border": "$black",
+    "panel.dropBorder": "$dusk",
+    "panelInput.border": "$dark",
+    "panelSection.dropBackground": "$clay/33",
+    "panelSectionHeader.background": "$dark",
+    "panelSectionHeader.foreground": "$powder",
+    "panelTitle.activeBorder": "$clay/66",
+    "panelTitle.activeForeground": "$powder",
+    "panelTitle.inactiveForeground": "$dust",
+    "peekView.border": "$dusk",
+    "peekViewEditor.background": "$dark",
+    "peekViewEditor.matchHighlightBackground": "$clay/66",
+    "peekViewResult.background": "$dark",
+    "peekViewResult.fileForeground": "$dust",
+    "peekViewResult.lineForeground": "$dust",
+    "peekViewResult.matchHighlightBackground": "$clay/66",
+    "peekViewResult.selectionBackground": "$clay/33",
+    "peekViewResult.selectionForeground": "$powder",
+    "peekViewTitle.background": "$dusk",
+    "peekViewTitleDescription.foreground": "$dust",
+    "pickerGroup.border": "$clay/66",
+    "pickerGroup.foreground": "$wisteria",
+    "ports.iconRunningProcessForeground": "$sakura",
+    "problemsErrorIcon.foreground": "$lily",
+    "problemsInfoIcon.foreground": "$iris",
+    "problemsWarningIcon.foreground": "$daisy",
+    "progressBar.background": "$sakura",
+    "quickInput.background": "$dark",
+    "quickInput.foreground": "$dust",
+    "quickInputList.focusBackground": "$clay/33",
+    "quickInputList.focusForeground": "$powder",
+    "quickInputList.focusIconForeground": "$powder",
+    "scrollbar.shadow": "$dark/4d",
+    "scrollbarSlider.activeBackground": "$leaf/80",
+    "scrollbarSlider.background": "$clay/33",
+    "scrollbarSlider.hoverBackground": "$clay/66",
+    "searchEditor.findMatchBackground": "$clay/33",
+    "selection.background": "$clay/66",
+    "settings.focusedRowBackground": "$dark",
+    "settings.headerForeground": "$powder",
+    "settings.modifiedItemIndicator": "$sakura",
+    "settings.focusedRowBorder": "$clay/33",
+    "settings.rowHoverBackground": "$dark",
+    "sideBar.background": "$dark",
+    "sideBar.dropBackground": "$dusk",
+    "sideBar.foreground": "$dust",
+    "sideBarSectionHeader.background": "$black",
+    "sideBarSectionHeader.border": "$clay/33",
+    "statusBar.background": "$deep",
+    "statusBar.debuggingBackground": "$wisteria",
+    "statusBar.debuggingForeground": "$deep",
+    "statusBar.foreground": "$dust",
+    "statusBar.noFolderBackground": "$deep",
+    "statusBar.noFolderForeground": "$dust",
+    "statusBarItem.activeBackground": "$clay/66",
+    "statusBarItem.hoverBackground": "$clay/33",
+    "statusBarItem.prominentBackground": "$dusk",
+    "statusBarItem.prominentForeground": "$powder",
+    "statusBarItem.prominentHoverBackground": "$clay/33",
+    "statusBarItem.remoteBackground": "$deep",
+    "statusBarItem.remoteForeground": "$daisy",
+    "statusBarItem.errorBackground": "$deep",
+    "statusBarItem.errorForeground": "$lily",
+    "symbolIcon.arrayForeground": "$dust",
+    "symbolIcon.classForeground": "$dust",
+    "symbolIcon.colorForeground": "$dust",
+    "symbolIcon.constantForeground": "$dust",
+    "symbolIcon.constructorForeground": "$dust",
+    "symbolIcon.enumeratorForeground": "$dust",
+    "symbolIcon.enumeratorMemberForeground": "$dust",
+    "symbolIcon.eventForeground": "$dust",
+    "symbolIcon.fieldForeground": "$dust",
+    "symbolIcon.fileForeground": "$dust",
+    "symbolIcon.folderForeground": "$dust",
+    "symbolIcon.functionForeground": "$dust",
+    "symbolIcon.interfaceForeground": "$dust",
+    "symbolIcon.keyForeground": "$dust",
+    "symbolIcon.keywordForeground": "$dust",
+    "symbolIcon.methodForeground": "$dust",
+    "symbolIcon.moduleForeground": "$dust",
+    "symbolIcon.namespaceForeground": "$dust",
+    "symbolIcon.nullForeground": "$dust",
+    "symbolIcon.numberForeground": "$dust",
+    "symbolIcon.objectForeground": "$dust",
+    "symbolIcon.operatorForeground": "$dust",
+    "symbolIcon.packageForeground": "$dust",
+    "symbolIcon.propertyForeground": "$dust",
+    "symbolIcon.referenceForeground": "$dust",
+    "symbolIcon.snippetForeground": "$dust",
+    "symbolIcon.stringForeground": "$dust",
+    "symbolIcon.structForeground": "$dust",
+    "symbolIcon.textForeground": "$dust",
+    "symbolIcon.typeParameterForeground": "$dust",
+    "symbolIcon.unitForeground": "$dust",
+    "symbolIcon.variableForeground": "$dust",
+    "tab.activeBackground": "$clay/1a",
+    "tab.activeForeground": "$powder",
+    "tab.activeModifiedBorder": "$iris",
+    "tab.border": "$black",
+    "tab.hoverBackground": "$clay/33",
+    "tab.inactiveBackground": "$black",
+    "tab.inactiveForeground": "$dust",
+    "tab.inactiveModifiedBorder": "$iris/80",
+    "tab.lastPinnedBorder": "$clay",
+    "tab.unfocusedActiveBackground": "$black",
+    "tab.unfocusedHoverBackground": "$black",
+    "tab.unfocusedInactiveBackground": "$black",
+    "tab.unfocusedInactiveModifiedBorder": "$iris/80",
+    "terminal.ansiBlack": "$dusk",
+    "terminal.ansiBlue": "$iris",
+    "terminal.ansiBrightBlack": "$dust",
+    "terminal.ansiBrightBlue": "$iris",
+    "terminal.ansiBrightCyan": "$sakura",
+    "terminal.ansiBrightGreen": "$leaf",
+    "terminal.ansiBrightMagenta": "$wisteria",
+    "terminal.ansiBrightRed": "$lily",
+    "terminal.ansiBrightWhite": "$powder",
+    "terminal.ansiBrightYellow": "$daisy",
+    "terminal.ansiCyan": "$sakura",
+    "terminal.ansiGreen": "$leaf",
+    "terminal.ansiMagenta": "$wisteria",
+    "terminal.ansiRed": "$lily",
+    "terminal.ansiWhite": "$powder",
+    "terminal.ansiYellow": "$daisy",
+    "terminal.dropBackground": "$clay/33",
+    "terminal.foreground": "$powder",
+    "terminal.selectionBackground": "$clay/33",
+    "terminal.tab.activeBorder": "$powder",
+    "terminalCursor.background": "$powder",
+    "terminalCursor.foreground": "$clay",
+    "textBlockQuote.background": "$dark",
+    "textBlockQuote.border": "$clay/33",
+    "textCodeBlock.background": "$dark",
+    "textLink.activeForeground": "$wisteria/e6",
+    "textLink.foreground": "$wisteria",
+    "textPreformat.foreground": "$daisy",
+    "textSeparator.foreground": "$dust",
+    "titleBar.activeBackground": "$deep",
+    "titleBar.activeForeground": "$dust",
+    "titleBar.inactiveBackground": "$dark",
+    "titleBar.inactiveForeground": "$dust",
+    "toolbar.activeBackground": "$clay/66",
+    "toolbar.hoverBackground": "$clay/33",
+    "tree.indentGuidesStroke": "$dust",
+    "walkThrough.embeddedEditorBackground": "$deep",
+    "welcomePage.background": "$deep",
+    "widget.shadow": "$dark/4d",
+    "window.activeBorder": "$dark",
+    "window.inactiveBorder": "$dark",
+    "editorIndentGuide.activeBackground1": "$clay",
+    "editorIndentGuide.background1": "$clay/66"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment"
+      ],
+      "settings": {
+        "foreground": "$clay",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "constant"
+      ],
+      "settings": {
+        "foreground": "$leaf"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "$sakura"
+      }
+    },
+    {
+      "scope": [
+        "entity.name"
+      ],
+      "settings": {
+        "foreground": "$sakura"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.section",
+        "entity.name.tag",
+        "entity.name.namespace",
+        "entity.name.type"
+      ],
+      "settings": {
+        "foreground": "$iris"
+      }
+    },
+    {
+      "scope": [
+        "entity.other.attribute-name",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "$wisteria",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "invalid"
+      ],
+      "settings": {
+        "foreground": "$lily"
+      }
+    },
+    {
+      "scope": [
+        "invalid.deprecated"
+      ],
+      "settings": {
+        "foreground": "$dust"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "variable.language.this"
+      ],
+      "settings": {
+        "foreground": "$leaf"
+      }
+    },
+    {
+      "scope": [
+        "markup.inserted.diff"
+      ],
+      "settings": {
+        "foreground": "$iris"
+      }
+    },
+    {
+      "scope": [
+        "markup.deleted.diff"
+      ],
+      "settings": {
+        "foreground": "$lily"
+      }
+    },
+    {
+      "scope": "markup.heading",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.bold.markdown",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": "markup.italic.markdown",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "meta.diff.range"
+      ],
+      "settings": {
+        "foreground": "$wisteria"
+      }
+    },
+    {
+      "scope": [
+        "meta.tag",
+        "meta.brace"
+      ],
+      "settings": {
+        "foreground": "$powder"
+      }
+    },
+    {
+      "scope": [
+        "meta.import",
+        "meta.export"
+      ],
+      "settings": {
+        "foreground": "$leaf"
+      }
+    },
+    {
+      "scope": "meta.directive.vue",
+      "settings": {
+        "foreground": "$wisteria",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "meta.property-name.css",
+      "settings": {
+        "foreground": "$iris"
+      }
+    },
+    {
+      "scope": "meta.property-value.css",
+      "settings": {
+        "foreground": "$daisy"
+      }
+    },
+    {
+      "scope": "meta.tag.other.html",
+      "settings": {
+        "foreground": "$dust"
+      }
+    },
+    {
+      "scope": [
+        "punctuation"
+      ],
+      "settings": {
+        "foreground": "$dust"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.accessor"
+      ],
+      "settings": {
+        "foreground": "$leaf"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.string"
+      ],
+      "settings": {
+        "foreground": "$daisy"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "$clay"
+      }
+    },
+    {
+      "scope": [
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "$leaf"
+      }
+    },
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "$daisy"
+      }
+    },
+    {
+      "scope": [
+        "support"
+      ],
+      "settings": {
+        "foreground": "$iris"
+      }
+    },
+    {
+      "scope": [
+        "support.constant"
+      ],
+      "settings": {
+        "foreground": "$daisy"
+      }
+    },
+    {
+      "scope": [
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "$lily",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "variable"
+      ],
+      "settings": {
+        "foreground": "$sakura",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "variable.other",
+        "variable.language",
+        "variable.function",
+        "variable.argument"
+      ],
+      "settings": {
+        "foreground": "$powder"
+      }
+    },
+    {
+      "scope": [
+        "variable.parameter"
+      ],
+      "settings": {
+        "foreground": "$wisteria"
+      }
+    }
+  ]
+}
