@@ -2,7 +2,7 @@
   "name": "sakura-blossom",
   "displayName": "Sakura Blossom",
   "description": "A pastel-themed color palette with a primary focus on soft pink. The colors blend elegance with readability, offering a balanced and visually pleasing coding experience.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "assets/logo.png",
   "publisher": "agustinhopneto",
   "type": "module",
