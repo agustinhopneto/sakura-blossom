@@ -2,7 +2,7 @@
   "name": "sakura-blossom",
   "displayName": "Sakura Blossom",
   "description": "A pastel-themed color palette with a primary focus on soft pink. The colors blend elegance with readability, offering a balanced and visually pleasing coding experience.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "assets/logo.png",
   "publisher": "agustinhopneto",
   "type": "module",
@@ -31,7 +31,9 @@
   },
   "scripts": {
     "package": "vsce package",
-    "build": "node ./src/index.js && npm run package"
+    "build": "node ./src/index.js && npm run package",
+    "version:patch": "npm version patch --git-tag-version false",
+    "version:minor": "npm version minor --git-tag-version false"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4"

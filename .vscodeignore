@@ -1,0 +1,10 @@
+node_modules/**
+.git/**
+.vscode/**
+src/**
+*.log
+*.md
+biome.json
+.gitignore
+package-lock.json
+
