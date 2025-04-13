@@ -4,7 +4,6 @@
   "description": "A pastel-themed color palette with a primary focus on soft pink. The colors blend elegance with readability, offering a balanced and visually pleasing coding experience.",
   "version": "0.0.1",
   "type": "module",
-  "main": "./src/index.js",
   "author": {
     "name": "Agustinho Neto",
     "email": "hello@apneto.dev",
@@ -27,7 +26,7 @@
     ]
   },
   "scripts": {
-    "build": "node ."
+    "build": "node ./src/index.js"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4"
