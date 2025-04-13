@@ -3,6 +3,8 @@
   "displayName": "Sakura Blossom",
   "description": "A pastel-themed color palette with a primary focus on soft pink. The colors blend elegance with readability, offering a balanced and visually pleasing coding experience.",
   "version": "0.0.1",
+  "icon": "assets/logo.png",
+  "publisher": "agustinhopneto",
   "type": "module",
   "repository": {
     "url": "https://www.github.com/agustinhopneto/sakura-blossom"
@@ -12,7 +14,6 @@
     "email": "hello@apneto.dev",
     "url": "https://www.github.com/agustinhopneto"
   },
-  "publisher": "agustinhopneto",
   "engines": {
     "vscode": "^1.99.0"
   },
