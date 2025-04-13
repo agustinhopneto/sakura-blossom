@@ -29,9 +29,13 @@
     ]
   },
   "scripts": {
-    "build": "node ./src/index.js"
+    "package": "vsce package",
+    "build": "node ./src/index.js && npm run package"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4"
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.3.2"
   }
 }
