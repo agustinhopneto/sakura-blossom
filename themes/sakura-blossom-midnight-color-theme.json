@@ -593,7 +593,8 @@
     {
       "scope": [
         "meta.tag",
-        "meta.brace"
+        "meta.brace",
+        "meta.object-literal.key"
       ],
       "settings": {
         "foreground": "#D1C7CA"
@@ -613,6 +614,15 @@
       "settings": {
         "foreground": "#B6A3E5",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "meta.directive.vue",
+        "meta.object.member"
+      ],
+      "settings": {
+        "foreground": "#B6A3E5"
       }
     },
     {
@@ -719,6 +729,7 @@
     {
       "scope": [
         "variable.other",
+        "variable.other.readwrite.alias",
         "variable.language",
         "variable.function",
         "variable.argument"
@@ -729,6 +740,7 @@
     },
     {
       "scope": [
+        "variable.other.readwrite",
         "variable.parameter"
       ],
       "settings": {
