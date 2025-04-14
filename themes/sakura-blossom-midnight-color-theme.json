@@ -729,7 +729,6 @@
     {
       "scope": [
         "variable.other",
-        "variable.other.readwrite.alias",
         "variable.language",
         "variable.function",
         "variable.argument"
@@ -740,7 +739,6 @@
     },
     {
       "scope": [
-        "variable.other.readwrite",
         "variable.parameter"
       ],
       "settings": {
